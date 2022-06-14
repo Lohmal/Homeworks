@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/irmak/AndroidStudioProjects/TarsusOgrenciBilgiSistemi/app/src/main/res/drawable-v24/ic_baseline_account_balance_24.xml" value="0.183" />
+        <entry key="..\:/Users/irmak/AndroidStudioProjects/TarsusOgrenciBilgiSistemi/app/src/main/res/drawable-v24/ic_baseline_assignment_24.xml" value="0.183" />
+        <entry key="..\:/Users/irmak/AndroidStudioProjects/TarsusOgrenciBilgiSistemi/app/src/main/res/drawable-v24/ic_baseline_repeat_24.xml" value="0.183" />
+        <entry key="..\:/Users/irmak/AndroidStudioProjects/TarsusOgrenciBilgiSistemi/app/src/main/res/drawable-v24/ic_baseline_school_24.xml" value="0.183" />
+        <entry key="..\:/Users/irmak/AndroidStudioProjects/TarsusOgrenciBilgiSistemi/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/irmak/AndroidStudioProjects/TarsusOgrenciBilgiSistemi/app/src/main/res/layout/activity_giris2.xml" value="0.22" />
+        <entry key="..\:/Users/irmak/AndroidStudioProjects/TarsusOgrenciBilgiSistemi/app/src/main/res/layout/activity_giris3.xml" value="0.25" />
+        <entry key="..\:/Users/irmak/AndroidStudioProjects/TarsusOgrenciBilgiSistemi/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/irmak/AndroidStudioProjects/TarsusOgrenciBilgiSistemi/app/src/main/res/layout/activity_ogrenci.xml" value="0.33" />
+        <entry key="..\:/Users/irmak/AndroidStudioProjects/TarsusOgrenciBilgiSistemi/app/src/main/res/layout/activity_ogrenci_anasayfa.xml" value="0.25" />
+        <entry key="..\:/Users/irmak/AndroidStudioProjects/TarsusOgrenciBilgiSistemi/app/src/main/res/layout/activity_ogrenci_not_islemleri.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/irmak/AndroidStudioProjects/TarsusOgrenciBilgiSistemi/app/src/main/res/layout/activity_ogrenci_person.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/irmak/AndroidStudioProjects/TarsusOgrenciBilgiSistemi/app/src/main/res/layout/activity_ogretmen.xml" value="0.22" />
+        <entry key="..\:/Users/irmak/AndroidStudioProjects/TarsusOgrenciBilgiSistemi/app/src/main/res/layout/content_layout.xml" value="0.22" />
+        <entry key="..\:/Users/irmak/AndroidStudioProjects/TarsusOgrenciBilgiSistemi/app/src/main/res/layout/fragment_ogrenci_anasayfa.xml" value="0.25" />
+        <entry key="..\:/Users/irmak/AndroidStudioProjects/TarsusOgrenciBilgiSistemi/app/src/main/res/layout/fragment_ogrenci_not_islemleri.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/irmak/AndroidStudioProjects/TarsusOgrenciBilgiSistemi/app/src/main/res/layout/fragment_ogrenci_person.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/irmak/AndroidStudioProjects/TarsusOgrenciBilgiSistemi/app/src/main/res/layout/fragment_ogretmen_anasayfa.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/irmak/AndroidStudioProjects/TarsusOgrenciBilgiSistemi/app/src/main/res/layout/fragment_ogretmen_ders.xml" value="0.33" />
+        <entry key="..\:/Users/irmak/AndroidStudioProjects/TarsusOgrenciBilgiSistemi/app/src/main/res/layout/fragment_ogretmen_not_islemleri.xml" value="0.33" />
+        <entry key="..\:/Users/irmak/AndroidStudioProjects/TarsusOgrenciBilgiSistemi/app/src/main/res/layout/fragment_ogretmen_person.xml" value="0.25" />
+        <entry key="..\:/Users/irmak/AndroidStudioProjects/TarsusOgrenciBilgiSistemi/app/src/main/res/layout/header_menu.xml" value="0.18" />
+        <entry key="..\:/Users/irmak/AndroidStudioProjects/TarsusOgrenciBilgiSistemi/app/src/main/res/layout/main_drawer_header.xml" value="0.2" />
+        <entry key="..\:/Users/irmak/AndroidStudioProjects/TarsusOgrenciBilgiSistemi/app/src/main/res/layout/recycler_row_notlar.xml" value="0.25" />
+        <entry key="..\:/Users/irmak/AndroidStudioProjects/TarsusOgrenciBilgiSistemi/app/src/main/res/layout/recycler_row_person.xml" value="0.33" />
+        <entry key="..\:/Users/irmak/AndroidStudioProjects/TarsusOgrenciBilgiSistemi/app/src/main/res/menu/main_drawer_menu.xml" value="0.1" />
+        <entry key="..\:/Users/irmak/AndroidStudioProjects/TarsusOgrenciBilgiSistemi/app/src/main/res/menu/main_menu.xml" value="0.22" />
+        <entry key="..\:/Users/irmak/AndroidStudioProjects/TarsusOgrenciBilgiSistemi/app/src/main/res/menu/ogr_main_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/irmak/AndroidStudioProjects/TarsusOgrenciBilgiSistemi/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Users/irmak/AndroidStudioProjects/TarsusOgrenciBilgiSistemi/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

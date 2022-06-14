@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.volkankivanc.tarsusogrencibilgisistemi">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.TarsusOgrenciBilgiSistemi">
+        <activity
+            android:name=".Ogretmen.OgretmenActivity"
+            android:screenOrientation="portrait"
+            android:exported="false" />
+        <activity
+            android:name=".Ogrenci.OgrenciActivity"
+            android:screenOrientation="portrait"
+            android:exported="false" />
+        <activity
+            android:name=".Giris.Giris3"
+            android:screenOrientation="portrait"
+            android:exported="false"
+            android:theme="@style/Theme.TarsusOgrenciBilgiSistemi2"/>
+        <activity
+            android:name=".Giris.Giris2"
+            android:screenOrientation="portrait"
+            android:exported="false"
+            android:theme="@style/Theme.TarsusOgrenciBilgiSistemi2"/>
+        <activity
+            android:name=".Giris.Giris1"
+            android:screenOrientation="portrait"
+            android:exported="true"
+            android:theme="@style/Theme.TarsusOgrenciBilgiSistemi2">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

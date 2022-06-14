@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "339605581985",
+    "project_id": "tarsusobs",
+    "storage_bucket": "tarsusobs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339605581985:android:4d6fe01fc22c63f45cc0e0",
+        "android_client_info": {
+          "package_name": "com.volkankivanc.tarsusobs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339605581985-cbr58pudek94kh9dad6vluvpnno48699.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJDuROwN6cEIK5gcLmVICYTqXa5yPHcsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339605581985-cbr58pudek94kh9dad6vluvpnno48699.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339605581985:android:ca12c5b43fa98f395cc0e0",
+        "android_client_info": {
+          "package_name": "com.volkankivanc.tarsusogrencibilgisistemi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339605581985-cbr58pudek94kh9dad6vluvpnno48699.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJDuROwN6cEIK5gcLmVICYTqXa5yPHcsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339605581985-cbr58pudek94kh9dad6vluvpnno48699.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

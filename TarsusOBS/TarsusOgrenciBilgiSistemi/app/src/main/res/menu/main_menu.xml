@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_baseline_home_24"
+            android:title="Anasayfa" />
+
+        <item
+            android:id="@+id/nav_person"
+            android:icon="@drawable/ic_baseline_person_outline_24"
+            android:title="Öğrenci Bilgileri" />
+
+        <item
+            android:id="@+id/nav_kayit_islemleri"
+            android:icon="@drawable/ic_baseline_repeat_24"
+            android:title="Kayıt Yenileme İşlemleri" />
+
+        <item
+            android:id="@+id/nav_not_islemleri"
+            android:icon="@drawable/ic_baseline_assignment_24"
+            android:title="Not İşlemleri" />
+
+        <item
+            android:id="@+id/nav_sinav_talep_islemleri"
+            android:icon="@drawable/ic_baseline_event_note_24"
+            android:title="Sınav Talep İşlemleri" />
+
+        <item
+            android:id="@+id/nav_erasmus_basvuru"
+            android:icon="@drawable/ic_baseline_school_24"
+            android:title="Erasmus Başvuru İşlemleri" />
+
+        <item
+            android:id="@+id/nav_harc"
+            android:icon="@drawable/ic_baseline_account_balance_24"
+            android:title="Harç/Borç İşlemleri" />
+
+        <item
+            android:id="@+id/nav_basvuru"
+            android:icon="@drawable/ic_baseline_computer_24"
+            android:title="Başvuru İşlemleri" />
+
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/ic_baseline_login_24"
+            android:title="Çıkış" />
+
+    </group>
+
+</menu>

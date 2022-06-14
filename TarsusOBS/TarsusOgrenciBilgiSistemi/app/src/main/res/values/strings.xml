@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">TarsusOgrenciBilgiSistemi</string>
+    <string name="renc_b_lg_s_stem">ÖĞRENCİ BİLGİ SİSTEMİ</string>
+    <string name="kullan_c_ad_n_z">Kullanıcı Adınız</string>
+    <string name="ifreniz">Şifreniz</string>
+    <string name="beni_hat_rla">Beni Hatırla</string>
+    <string name="button">Button</string>
+    <string name="ifremi_unuttum"><u>Şifremi Unuttum</u></string>
+    <string name="renci_eposta_adresimi_renmek_istiyorum"><u>Öğrenci eposta adresimi öğrenmek istiyorum</u></string>
+    <string name="tarsus_niversitesi">Tarsus Üniversitesi</string>
+    <string name="getir">Getir</string>
+    <string name="renci_no">Öğrenci No</string>
+    <string name="renci_ad">Öğrenci Adı</string>
+    <string name="renci_soyad">Öğrenci Soyadı</string>
+    <string name="anne_ad">Anne Adı</string>
+    <string name="baba_ad">Baba Adı</string>
+    <string name="anasayfa"><u>Anasayfa</u></string>
+    <string name="email_adresiniz">Email Adresiniz</string>
+    <string name="telefon_numaran_z">Telefon Numaranız</string>
+    <string name="giri">Giriş</string>
+    <string name="menu_drawer_open">Drawer Open</string>
+    <string name="menu_drawer_close">Drawer Close</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
